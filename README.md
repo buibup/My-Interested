@@ -5,3 +5,6 @@
 
 ## Scalable and Performant ASP.NET Core Web APIs: ORM Choice
   https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-orm-choice/
+
+## Scalable and Performant ASP.NET Core Web APIs: Paging
+  https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-paging/
