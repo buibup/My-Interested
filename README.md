@@ -8,3 +8,9 @@
 
 ## Scalable and Performant ASP.NET Core Web APIs: Paging
   https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-paging/
+  
+## A cross-platform design tool
+  https://www.designer.io/
+  
+## Lunacy, Sketch for Windows
+  https://icons8.com/lunacy
