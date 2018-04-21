@@ -8,7 +8,7 @@
 #### Building a GraphQL API with ASP.NET Core 2 and Entity Framework Core
 * ##### https://fullstackmark.com/post/17/building-a-graphql-api-with-aspnet-core-2-and-entity-framework-core
 
-## ASP.NET Core Web API Multi-Tenant JWTs
+#### ASP.NET Core Web API Multi-Tenant JWTs
 * ##### https://www.carlrippon.com/asp-net-core-web-api-multi-tenant-jwts/
 
 #### Scalable and Performant ASP.NET Core Web APIs: ORM Choice
