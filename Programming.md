@@ -1,5 +1,8 @@
 # Programming
 
+#### Top 10 Most Popular Charts In Angular With .NET Core API
+* ##### https://www.c-sharpcorner.com/article/top-10-most-popular-charts-in-angular-with-net-core-api/
+
 #### Integrating Charts With Angular 5
 * ##### https://www.c-sharpcorner.com/article/integrating-charts-with-angular-5-part-1/
 
