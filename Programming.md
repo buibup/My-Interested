@@ -27,6 +27,9 @@
 
 #### How to implement Generic Queries by combining EntityFramework Core and GraphQL.NET?
 * ##### https://www.codeproject.com/Articles/1224151/How-to-implement-Generic-Queries-by-combining
+
+#### Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial
+* ##### https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
   
 #### Export Reports into Diffrent File Formate using Crystal Reports Service
 * ##### https://nissankg.wordpress.com/2008/03/12/export-reports-into-diffrent-file-formate-using-crystal-reports-service/
