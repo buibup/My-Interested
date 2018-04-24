@@ -1,5 +1,9 @@
 # Programming
 
+#### Charting Framework for Angular
+* ##### https://swimlane.github.io/ngx-charts/
+* ##### https://github.com/swimlane/ngx-charts
+
 #### Angular Bootstrap charts
 * ##### https://mdbootstrap.com/angular/advanced/charts/
 
