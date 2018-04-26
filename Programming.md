@@ -1,18 +1,9 @@
 # Programming
 
-#### Charting Framework for Angular
-* ##### https://swimlane.github.io/ngx-charts/
-* ##### https://github.com/swimlane/ngx-charts
-
-#### Angular Bootstrap charts
-* ##### https://mdbootstrap.com/angular/advanced/charts/
+## C#, .Net
 
 #### Top 10 Most Popular Charts In Angular With .NET Core API
 * ##### https://www.c-sharpcorner.com/article/top-10-most-popular-charts-in-angular-with-net-core-api/
-
-#### Integrating Charts With Angular 5
-* ##### https://www.c-sharpcorner.com/article/integrating-charts-with-angular-5-part-1/
-* ##### https://github.com/fusioncharts/angular4-fusioncharts
 
 #### JWT Authentication with ASP.NET Core 2 Web API, Angular 5, .NET Core Identity and Facebook Login
 * ##### https://fullstackmark.com/post/13/jwt-authentication-with-aspnet-core-2-web-api-angular-5-net-core-identity-and-facebook-login
@@ -32,9 +23,28 @@
 #### How to implement Generic Queries by combining EntityFramework Core and GraphQL.NET?
 * ##### https://www.codeproject.com/Articles/1224151/How-to-implement-Generic-Queries-by-combining
 
-#### Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial
-* ##### https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
-  
 #### Export Reports into Diffrent File Formate using Crystal Reports Service
 * ##### https://nissankg.wordpress.com/2008/03/12/export-reports-into-diffrent-file-formate-using-crystal-reports-service/
-  
+
+
+## JAVA, Spring boot, JPA, Hibernate
+
+#### Spring Boot REST Example
+* ##### https://www.concretepage.com/spring-boot/spring-boot-rest-example
+
+#### Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial
+* ##### https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+
+## Angular
+
+#### Charting Framework for Angular
+* ##### https://swimlane.github.io/ngx-charts/
+* ##### https://github.com/swimlane/ngx-charts
+
+#### Angular Bootstrap charts
+* ##### https://mdbootstrap.com/angular/advanced/charts/
+
+#### Integrating Charts With Angular 5
+* ##### https://www.c-sharpcorner.com/article/integrating-charts-with-angular-5-part-1/
+* ##### https://github.com/fusioncharts/angular4-fusioncharts
+
