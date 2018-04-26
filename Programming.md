@@ -26,6 +26,11 @@
 #### Export Reports into Diffrent File Formate using Crystal Reports Service
 * ##### https://nissankg.wordpress.com/2008/03/12/export-reports-into-diffrent-file-formate-using-crystal-reports-service/
 
+## Linux
+
+#### Install Microsoft .NET Core 2.0 for Linux.
+* ##### https://www.server-world.info/en/note?os=CentOS_7&p=dotnet20
+
 
 ## JAVA, Spring boot, JPA, Hibernate
 
