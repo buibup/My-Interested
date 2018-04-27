@@ -34,6 +34,15 @@
 
 ## JAVA, Spring boot, JPA, Hibernate
 
+#### Spring Boot Security Jwt Authentication
+* ##### http://www.devglan.com/spring-security/spring-boot-jwt-auth
+
+#### Spring Boot + Spring Security + JWT + MySQL + React Full Stack Polling app - Part 2
+* ##### https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/
+
+#### Spring Boot JWT starter kit for stateless and token-based authentication apps
+* ##### https://github.com/bfwg/springboot-jwt-starter
+
 #### Spring Boot REST Example
 * ##### https://www.concretepage.com/spring-boot/spring-boot-rest-example
 
