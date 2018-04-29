@@ -8,6 +8,9 @@
 #### RESTFUL WEB API USING ASP.NET CORE 2.0 WITH MSSQL(using Dapper)
 * ##### https://medium.com/@maheshi.gunarathne1994/web-api-using-asp-net-core-2-0-and-entity-framework-core-with-mssql-59d30f33ff64
 
+#### Design Patterns: Asp.Net Core Web API, services, and repositories
+* ##### http://www.forevolve.com/en/articles/2017/08/11/design-patterns-web-api-service-and-repository-part-1/
+
 #### Top 10 Most Popular Charts In Angular With .NET Core API
 * ##### https://www.c-sharpcorner.com/article/top-10-most-popular-charts-in-angular-with-net-core-api/
 
