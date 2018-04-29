@@ -2,6 +2,9 @@
 
 ## C#, .Net
 
+#### Developing Web Apps with ASP.NET Core 2.0 and React - Part 1
+* ##### https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/
+
 #### Top 10 Most Popular Charts In Angular With .NET Core API
 * ##### https://www.c-sharpcorner.com/article/top-10-most-popular-charts-in-angular-with-net-core-api/
 
