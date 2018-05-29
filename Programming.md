@@ -2,6 +2,9 @@
 
 ## C#, .Net
 
+#### ASP.NET Core Blazor Filtering and Sorting using Entity Framework and Web API
+* ##### https://www.codeproject.com/Articles/1245972/ASP-NET-Core-Blazor-Filtering-and-Sorting-using-En
+
 #### Developing Web Apps with ASP.NET Core 2.0 and React - Part 1
 * ##### https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/
 
