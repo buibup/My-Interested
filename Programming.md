@@ -79,3 +79,5 @@
 * ##### https://www.c-sharpcorner.com/article/integrating-charts-with-angular-5-part-1/
 * ##### https://github.com/fusioncharts/angular4-fusioncharts
 
+#### Updating Angular 4|5 to Angular 6 CLI and Upgrading Existing Projects to Angular 6
+* ##### https://www.techiediaries.com/updating-angular-cli-projects/
