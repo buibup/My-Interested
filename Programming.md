@@ -1,8 +1,13 @@
 # Programming
 
+## TypeScript 
+
+#### TypeScript vs. C#: LINQ
+* ##### https://decembersoft.com/posts/typescript-vs-csharp-linq/
+
 ## GraphQL
 
-  #### 
+  #### GraphQL with ASP.NET Core
   * ##### http://fiyazhasan.me/tag/graphql-dotnet/
 
 ## IIS
