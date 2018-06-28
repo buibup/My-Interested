@@ -18,6 +18,9 @@
 #### Publish ASP.NET Core 2.0 Application on IIS
 * ##### https://www.c-sharpcorner.com/article/publish-asp-net-core-2-0-application-on-iis/
 
+#### .NET Core Publishing to IIS
+* ##### http://jakeydocs.readthedocs.io/en/latest/publishing/iis.html
+
 ## C#, .Net
 
 #### ASP.NET Core Blazor Filtering and Sorting using Entity Framework and Web API
