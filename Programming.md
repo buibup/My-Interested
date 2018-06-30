@@ -2,6 +2,9 @@
 
 ## TypeScript 
 
+#### TypeScript Deep Dive
+* ##### https://github.com/basarat/typescript-book
+
 #### TypeScript vs. C#: LINQ
 * ##### https://decembersoft.com/posts/typescript-vs-csharp-linq/
 
