@@ -111,3 +111,6 @@
 
 #### Updating Angular 4|5 to Angular 6 CLI and Upgrading Existing Projects to Angular 6
 * ##### https://www.techiediaries.com/updating-angular-cli-projects/
+
+#### Convert HTML To PDF Using Angular 6
+* ##### https://www.c-sharpcorner.com/article/convert-html-to-pdf-using-angular-6/
