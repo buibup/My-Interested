@@ -73,6 +73,12 @@
 #### Export Reports into Diffrent File Formate using Crystal Reports Service
 * ##### https://nissankg.wordpress.com/2008/03/12/export-reports-into-diffrent-file-formate-using-crystal-reports-service/
 
+#### ASP.NET MVC 5: Building Your First Web Application - Part 1
+* ##### https://www.codeproject.com/Articles/1105184/ASP-NET-MVC-Building-Your-First-Web-Application-Pa
+
+#### .NET Core 2.0, Angular and MySQL. Repository Pattern
+* ##### https://code-maze.com/net-core-web-development-part4/
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
