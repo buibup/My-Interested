@@ -79,6 +79,9 @@
 #### .NET Core 2.0, Angular and MySQL. Repository Pattern
 * ##### https://code-maze.com/net-core-web-development-part4/
 
+#### AspSnippets
+* ##### https://www.aspsnippets.com/
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
