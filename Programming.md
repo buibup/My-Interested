@@ -129,3 +129,8 @@
 
 #### Convert HTML To PDF Using Angular 6
 * ##### https://www.c-sharpcorner.com/article/convert-html-to-pdf-using-angular-6/
+
+## Server
+
+#### Using the Apache HTTP Server as a forward proxy to the Internet
+* ##### http://theheat.dk/blog/?p=929
