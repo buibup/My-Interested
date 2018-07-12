@@ -37,6 +37,9 @@
 
 ## C#, .Net
 
+#### Part 1 : ASP.NET Core 2.0 Web API JWT Authentication - Configuration
+* ##### https://www.youtube.com/watch?v=nu1g2kOhJwY&index=1&list=PLc3MaRdCfuE-DeVj3fMSG8QTC0X3eIJYf
+
 #### Securing ASP.NET CORE Web API using Custom API Key based Authentication
 * ##### https://www.codeproject.com/Articles/1228892/Securing-ASP-NET-CORE-Web-API-using-Custom-API-Key
 
