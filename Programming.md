@@ -37,6 +37,9 @@
 
 ## C#, .Net
 
+#### Securing ASP.NET CORE Web API using Custom API Key based Authentication
+* ##### https://www.codeproject.com/Articles/1228892/Securing-ASP-NET-CORE-Web-API-using-Custom-API-Key
+
 #### ASP.NET Core Blazor Filtering and Sorting using Entity Framework and Web API
 * ##### https://www.codeproject.com/Articles/1245972/ASP-NET-Core-Blazor-Filtering-and-Sorting-using-En
 
