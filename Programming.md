@@ -134,3 +134,8 @@
 
 #### Using the Apache HTTP Server as a forward proxy to the Internet
 * ##### http://theheat.dk/blog/?p=929
+
+## Swagger
+
+#### Add JWT Bearer Authorization to Swagger and ASP.NET Core
+* ##### https://ppolyzos.com/2017/10/30/add-jwt-bearer-authorization-to-swagger-and-asp-net-core/
