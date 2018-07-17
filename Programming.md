@@ -37,6 +37,9 @@
 
 ## C#, .Net
 
+#### Building an ASP.NET Web API with ASP.NET Core
+* ##### https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial
+
 #### Part 1 : ASP.NET Core 2.0 Web API JWT Authentication - Configuration
 * ##### https://www.youtube.com/watch?v=nu1g2kOhJwY&index=1&list=PLc3MaRdCfuE-DeVj3fMSG8QTC0X3eIJYf
 
