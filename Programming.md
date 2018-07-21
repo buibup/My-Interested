@@ -35,6 +35,9 @@
 #### .NET Core Publishing to IIS
 * ##### http://jakeydocs.readthedocs.io/en/latest/publishing/iis.html
 
+#### Enabling IIS and required IIS components on Windows Server 2008/2008 R2
+* ##### http://enterprise.arcgis.com/en/web-adaptor/latest/install/iis/enable-iis-2008-components-server.htm
+
 ## C#, .Net
 
 #### Building an ASP.NET Web API with ASP.NET Core
