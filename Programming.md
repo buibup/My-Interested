@@ -119,6 +119,12 @@
 
 ## Angular
 
+#### Browser Push Notification in Angular 5
+* ##### https://dzone.com/articles/browser-push-notification-in-angular-5
+
+#### Angular Push Notifications: a Complete Step-by-Step Guide
+* ##### https://blog.angular-university.io/angular-push-notifications/
+
 #### Charting Framework for Angular
 * ##### https://swimlane.github.io/ngx-charts/
 * ##### https://github.com/swimlane/ngx-charts
