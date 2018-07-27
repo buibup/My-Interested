@@ -40,6 +40,12 @@
 
 ## C#, .Net
 
+#### Unit Testing in ASP.NET Core Web API
+* ##### https://code-maze.com/unit-testing-aspnetcore-web-api/
+
+#### ASP.NET Core Web API Best Practices
+* ##### https://code-maze.com/aspnetcore-webapi-best-practices/
+
 #### Building an ASP.NET Web API with ASP.NET Core
 * ##### https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial
 
