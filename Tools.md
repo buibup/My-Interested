@@ -1,5 +1,15 @@
 # Tools
 
+## Develop
+
+    Visual Studio Code
+    Visual Studio
+    DBeaver
+    Cmder
+    git
+    Postman
+    Markdown Monster
+
 ## A cross-platform design tool
   https://www.designer.io/
   
