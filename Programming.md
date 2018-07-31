@@ -38,6 +38,14 @@
 #### Enabling IIS and required IIS components on Windows Server 2008/2008 R2
 * ##### http://enterprise.arcgis.com/en/web-adaptor/latest/install/iis/enable-iis-2008-components-server.htm
 
+## ASP.NET Core
+
+#### Build an Airport Explorer with ASP.NET Core
+* ##### https://www.jerriepelser.com/books/airport-explorer
+
+#### ASP.NET Core: Expense Manager Using EF Core and Highcharts
+* ##### https://dzone.com/articles/aspnet-core-expense-manager-using-ef-core-and-high
+
 ## C#, .Net
 
 #### Unit Testing in ASP.NET Core Web API
