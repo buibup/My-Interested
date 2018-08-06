@@ -46,6 +46,9 @@
 #### ASP.NET Core: Expense Manager Using EF Core and Highcharts
 * ##### https://dzone.com/articles/aspnet-core-expense-manager-using-ef-core-and-high
 
+#### How to setup ASP.NET Core 2.1 on Linux in under 10 minutes
+* ##### https://www.danielcrabtree.com/blog/481/how-to-setup-asp-net-core-2-1-on-linux-in-under-10-minutes
+
 ## C#, .Net
 
 #### Unit Testing in ASP.NET Core Web API
