@@ -40,6 +40,9 @@
 
 ## ASP.NET Core
 
+#### Angular Data CRUD with Advanced Practices of Reactive Forms
+* ##### https://www.codeproject.com/Articles/1248738/Angular-Data-CRUD-with-Advanced-Practices-of-React
+
 #### Build an Airport Explorer with ASP.NET Core
 * ##### https://www.jerriepelser.com/books/airport-explorer
 
