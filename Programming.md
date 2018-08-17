@@ -139,6 +139,9 @@
 
 ## Angular
 
+#### Convert HTML To PDF Using Angular 6
+* ##### https://www.c-sharpcorner.com/article/convert-html-to-pdf-using-angular-6/
+
 #### Browser Push Notification in Angular 5
 * ##### https://dzone.com/articles/browser-push-notification-in-angular-5
 
