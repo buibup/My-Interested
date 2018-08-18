@@ -1,5 +1,10 @@
 # Programming
 
+## Payment 
+
+#### Braintree Payment - ASP.Net Core2.1
+* ##### https://www.codeproject.com/Articles/1256737/Braintree-Payment-ASP-Net-Core2-1
+
 ## TypeScript 
 
 #### TypeScript Deep Dive
