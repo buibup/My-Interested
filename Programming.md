@@ -124,23 +124,16 @@
 #### Install Microsoft .NET Core 2.0 for Linux.
 * ##### https://www.server-world.info/en/note?os=CentOS_7&p=dotnet20
 
+## Refactoring, Design patterns, SOLID principles and other smart programming topics
 
-## JAVA, Spring boot, JPA, Hibernate
+#### Refactoring.Guru
+* ##### https://refactoring.guru/
 
-#### Spring Boot Security Jwt Authentication
-* ##### http://www.devglan.com/spring-security/spring-boot-jwt-auth
+#### Design Patterns
+* ##### https://www.oodesign.com/
 
-#### Spring Boot + Spring Security + JWT + MySQL + React Full Stack Polling app - Part 2
-* ##### https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/
-
-#### Spring Boot JWT starter kit for stateless and token-based authentication apps
-* ##### https://github.com/bfwg/springboot-jwt-starter
-
-#### Spring Boot REST Example
-* ##### https://www.concretepage.com/spring-boot/spring-boot-rest-example
-
-#### Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial
-* ##### https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+#### The definitive guide to building apps using .NET design patterns and pattern architectures.
+* ##### https://www.dofactory.com/
 
 ## Angular
 
@@ -179,3 +172,20 @@
 
 #### Add JWT Bearer Authorization to Swagger and ASP.NET Core
 * ##### https://ppolyzos.com/2017/10/30/add-jwt-bearer-authorization-to-swagger-and-asp-net-core/
+
+## JAVA, Spring boot, JPA, Hibernate
+
+#### Spring Boot Security Jwt Authentication
+* ##### http://www.devglan.com/spring-security/spring-boot-jwt-auth
+
+#### Spring Boot + Spring Security + JWT + MySQL + React Full Stack Polling app - Part 2
+* ##### https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/
+
+#### Spring Boot JWT starter kit for stateless and token-based authentication apps
+* ##### https://github.com/bfwg/springboot-jwt-starter
+
+#### Spring Boot REST Example
+* ##### https://www.concretepage.com/spring-boot/spring-boot-rest-example
+
+#### Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial
+* ##### https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
