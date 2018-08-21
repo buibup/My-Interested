@@ -119,6 +119,9 @@
 #### AspSnippets
 * ##### https://www.aspsnippets.com/
 
+#### Understanding SQL Server Connection Pooling in ADO.NET
+* ##### https://www.mssqltips.com/sqlservertip/5630/understanding-sql-server-connection-pooling-in-adonet/
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
