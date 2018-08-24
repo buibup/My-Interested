@@ -125,6 +125,9 @@
 #### Advanced Excels With EPPlus
 * ##### https://www.codeproject.com/Articles/1194712/Advanced-Excels-With-EPPlus
 
+#### POCO Generator
+* ##### https://www.codeproject.com/Articles/892233/POCO-Generator
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
