@@ -59,6 +59,9 @@
 
 ## C#, .Net
 
+#### .Net Design Pattern
+* ##### https://blog.usejournal.com/net-design-pattern-3b747d155588
+
 #### Unit Testing in ASP.NET Core Web API
 * ##### https://code-maze.com/unit-testing-aspnetcore-web-api/
 
