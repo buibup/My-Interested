@@ -122,6 +122,9 @@
 #### Understanding SQL Server Connection Pooling in ADO.NET
 * ##### https://www.mssqltips.com/sqlservertip/5630/understanding-sql-server-connection-pooling-in-adonet/
 
+#### Advanced Excels With EPPlus
+* ##### https://www.codeproject.com/Articles/1194712/Advanced-Excels-With-EPPlus
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
