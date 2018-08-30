@@ -175,6 +175,9 @@
 #### Convert HTML To PDF Using Angular 6
 * ##### https://www.c-sharpcorner.com/article/convert-html-to-pdf-using-angular-6/
 
+#### AutoComplete Textbox in Angular 6 with Dynamic Data using Web API in MVC 4
+* ##### https://www.encodedna.com/angular/autocomplete-textbox-in-angular-6-using-web-api.htm
+
 ## Server
 
 #### Using the Apache HTTP Server as a forward proxy to the Internet
