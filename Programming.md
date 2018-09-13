@@ -140,6 +140,9 @@
 #### ObjectsComparer
 * ##### https://github.com/ValeraT1982/ObjectsComparer
 
+#### Upload Large Files In Web API With A Simple Method
+* ##### https://www.c-sharpcorner.com/article/upload-large-files-in-web-api-with-a-simple-method/
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
