@@ -131,6 +131,9 @@
 #### POCO Generator
 * ##### https://www.codeproject.com/Articles/892233/POCO-Generator
 
+#### ObjectsComparer
+* ##### https://github.com/ValeraT1982/ObjectsComparer
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
