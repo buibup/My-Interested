@@ -1,5 +1,11 @@
 # Programming
 
+## Article 
+
+#### Software Project Development and Decision Making
+* ##### https://www.codeproject.com/Articles/1230088/Software-Project-Development-and-Decision-Making
+
+
 ## Payment 
 
 #### Braintree Payment - ASP.Net Core2.1
