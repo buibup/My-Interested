@@ -63,6 +63,11 @@
 #### How to setup ASP.NET Core 2.1 on Linux in under 10 minutes
 * ##### https://www.danielcrabtree.com/blog/481/how-to-setup-asp-net-core-2-1-on-linux-in-under-10-minutes
 
+## Dapper
+
+#### Tutorial on Handling Multiple Resultsets and Multiple Mapping using Dapper
+* ##### https://www.codeproject.com/Articles/1260540/Tutorial-on-Handling-Multiple-Resultsets-and-Multi
+
 ## C#, .Net
 
 #### .Net Design Pattern
