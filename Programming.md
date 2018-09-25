@@ -49,6 +49,10 @@
 #### Enabling IIS and required IIS components on Windows Server 2008/2008 R2
 * ##### http://enterprise.arcgis.com/en/web-adaptor/latest/install/iis/enable-iis-2008-components-server.htm
 
+## SQL Server 
+#### Performance Tuning in SQL Server Tutorial: Top 5 Ways to Find Slow Queries
+* ##### https://stackify.com/performance-tuning-in-sql-server-find-slow-queries/
+
 ## ASP.NET Core
 
 #### Angular Data CRUD with Advanced Practices of Reactive Forms
