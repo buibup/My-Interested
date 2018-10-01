@@ -53,6 +53,10 @@
 #### Performance Tuning in SQL Server Tutorial: Top 5 Ways to Find Slow Queries
 * ##### https://stackify.com/performance-tuning-in-sql-server-find-slow-queries/
 
+## Testing
+#### Moq - Unit Test In .NET Core App Using Mock Object
+* ##### https://www.c-sharpcorner.com/article/moq-unit-test-net-core-app-using-mock-object/
+
 ## ASP.NET Core
 
 #### Angular Data CRUD with Advanced Practices of Reactive Forms
