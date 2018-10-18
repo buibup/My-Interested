@@ -62,6 +62,15 @@
 
 ## ASP.NET Core
 
+#### ASP.NET Core 2.1 - Simple API for Authentication, Registration and User Management
+* ##### http://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management
+
+#### Building an ASP.NET Web API with ASP.NET Core
+* ##### https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial
+
+#### ASP.NET Core 2.1: Building a Simple Web API
+* ##### https://www.youtube.com/watch?v=J_MEscBWJYI
+
 #### Angular Data CRUD with Advanced Practices of Reactive Forms
 * ##### https://www.codeproject.com/Articles/1248738/Angular-Data-CRUD-with-Advanced-Practices-of-React
 
