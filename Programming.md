@@ -62,6 +62,9 @@
 
 ## ASP.NET Core
 
+#### Building ASP.NET Core Web APIs with Clean Architecture
+* ##### https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture
+
 #### Using Swagger In ASP.NET Core
 * ##### https://www.c-sharpcorner.com/article/using-swagger-in-asp-net-core/
 
