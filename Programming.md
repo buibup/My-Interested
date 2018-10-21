@@ -62,6 +62,9 @@
 
 ## ASP.NET Core
 
+#### Using Swagger In ASP.NET Core
+* ##### https://www.c-sharpcorner.com/article/using-swagger-in-asp-net-core/
+
 #### ASP.NET Core 2.1 - Simple API for Authentication, Registration and User Management
 * ##### http://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management
 
