@@ -62,6 +62,12 @@
 
 ## ASP.NET Core
 
+#### Clean Architecture with ASP.NET Core 2.1
+* ##### https://www.youtube.com/watch?v=_lwCVE_XgqI
+
+#### Developing Enterprise Apps with ASP .NET Core 2.1
+* ##### https://www.youtube.com/watch?v=fAJrVf8f6M4&t=28s
+
 #### Building ASP.NET Core Web APIs with Clean Architecture
 * ##### https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture
 
