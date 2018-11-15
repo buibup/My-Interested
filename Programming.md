@@ -11,6 +11,7 @@
 #### Braintree Payment - ASP.Net Core2.1
 * ##### https://www.codeproject.com/Articles/1256737/Braintree-Payment-ASP-Net-Core2-1
 
+
 ## TypeScript 
 
 #### TypeScript Deep Dive
@@ -19,15 +20,25 @@
 #### TypeScript vs. C#: LINQ
 * ##### https://decembersoft.com/posts/typescript-vs-csharp-linq/
 
+
 ## GraphQL
 
 #### GraphQL with ASP.NET Core
 * ##### http://fiyazhasan.me/tag/graphql-dotnet/
 
+
 ## E-Mail
 
 #### Send e-mail via SMTP using C#
 * ##### https://stackoverflow.com/a/9201317/858290
+
+
+## Visual Studio
+#### Visual Studio 2017 C# productivity guide
+* ##### https://docs.microsoft.com/en-us/visualstudio/ide/visual-studio-2017-for-dotnet-developers?utm_source=youtube.com&utm_medium=video&utm_campaign=kendra-net-new-video&utm_content=VSProductivity&view=vs-2017
+
+#### Visual Studio Productivity doc for the full list
+* ##### https://aka.ms/ProductivityVideo
 
 ## IIS
 
@@ -49,9 +60,11 @@
 #### Enabling IIS and required IIS components on Windows Server 2008/2008 R2
 * ##### http://enterprise.arcgis.com/en/web-adaptor/latest/install/iis/enable-iis-2008-components-server.htm
 
+
 ## SQL Server 
 #### Performance Tuning in SQL Server Tutorial: Top 5 Ways to Find Slow Queries
 * ##### https://stackify.com/performance-tuning-in-sql-server-find-slow-queries/
+
 
 ## Testing
 #### Moq - Unit Test In .NET Core App Using Mock Object
@@ -59,6 +72,7 @@
 
 #### Unit Testing in ASP.NET Core Web API
 * ##### https://code-maze.com/unit-testing-aspnetcore-web-api/
+
 
 ## ASP.NET Core
 
@@ -95,10 +109,12 @@
 #### How to setup ASP.NET Core 2.1 on Linux in under 10 minutes
 * ##### https://www.danielcrabtree.com/blog/481/how-to-setup-asp-net-core-2-1-on-linux-in-under-10-minutes
 
+
 ## Dapper
 
 #### Tutorial on Handling Multiple Resultsets and Multiple Mapping using Dapper
 * ##### https://www.codeproject.com/Articles/1260540/Tutorial-on-Handling-Multiple-Resultsets-and-Multi
+
 
 ## C#, .Net
 
@@ -177,6 +193,7 @@
 #### Upload Large Files In Web API With A Simple Method
 * ##### https://www.c-sharpcorner.com/article/upload-large-files-in-web-api-with-a-simple-method/
 
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
@@ -192,6 +209,7 @@
 
 #### The definitive guide to building apps using .NET design patterns and pattern architectures.
 * ##### https://www.dofactory.com/
+
 
 ## Angular
 
@@ -224,15 +242,18 @@
 #### AutoComplete Textbox in Angular 6 with Dynamic Data using Web API in MVC 4
 * ##### https://www.encodedna.com/angular/autocomplete-textbox-in-angular-6-using-web-api.htm
 
+
 ## Server
 
 #### Using the Apache HTTP Server as a forward proxy to the Internet
 * ##### http://theheat.dk/blog/?p=929
 
+
 ## Swagger
 
 #### Add JWT Bearer Authorization to Swagger and ASP.NET Core
 * ##### https://ppolyzos.com/2017/10/30/add-jwt-bearer-authorization-to-swagger-and-asp-net-core/
+
 
 ## JAVA, Spring boot, JPA, Hibernate
 
