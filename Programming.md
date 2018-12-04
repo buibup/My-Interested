@@ -40,6 +40,9 @@
 #### Visual Studio Productivity doc for the full list
 * ##### https://aka.ms/ProductivityVideo
 
+#### Visual Studio shortcut keys
+* ##### https://www.dofactory.com/reference/visual-studio-shortcuts
+
 ## IIS
 
 #### Deploy angular application on IIS Server
