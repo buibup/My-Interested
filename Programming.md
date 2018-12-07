@@ -43,6 +43,7 @@
 #### Visual Studio shortcut keys
 * ##### https://www.dofactory.com/reference/visual-studio-shortcuts
 
+
 ## IIS
 
 #### Deploy angular application on IIS Server
@@ -78,6 +79,9 @@
 
 
 ## ASP.NET Core
+
+#### Microservices and Docker with .Net Core and Azure Service Fabric
+* ##### https://github.com/vany0114/microservices-dotnetcore-docker-servicefabric
 
 #### Clean Architecture with ASP.NET Core 2.1
 * ##### https://www.youtube.com/watch?v=_lwCVE_XgqI
