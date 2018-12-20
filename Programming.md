@@ -69,6 +69,10 @@
 #### Performance Tuning in SQL Server Tutorial: Top 5 Ways to Find Slow Queries
 * ##### https://stackify.com/performance-tuning-in-sql-server-find-slow-queries/
 
+## Database
+#### Top 5 Free Database Diagram Design Tools
+* ##### https://www.holistics.io/blog/top-5-free-database-diagram-design-tools/
+
 
 ## Testing
 #### Moq - Unit Test In .NET Core App Using Mock Object
