@@ -5,6 +5,9 @@
 #### Software Project Development and Decision Making
 * ##### https://www.codeproject.com/Articles/1230088/Software-Project-Development-and-Decision-Making
 
+#### An example of activity diagram for online shopping.
+* ##### https://studylib.net/doc/10031747/an-example-of-activity-diagram-for-online-shopping.
+
 
 ## Payment 
 
