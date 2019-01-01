@@ -11,7 +11,12 @@
 ## IdentityServer
 
 #### ASP.NET Core 2.1 Full Stack Web App
+##### Part1 
 * ##### https://www.jianshu.com/p/cd0b5917d184?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+##### Part2
+* ##### https://www.jianshu.com/p/778ebde7b52f?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+##### Part3
+* ##### https://www.jianshu.com/p/fd13c927b527?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 
 ## Payment 
 
