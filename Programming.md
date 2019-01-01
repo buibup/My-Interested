@@ -8,6 +8,10 @@
 #### An example of activity diagram for online shopping.
 * ##### https://studylib.net/doc/10031747/an-example-of-activity-diagram-for-online-shopping.
 
+## IdentityServer
+
+#### ASP.NET Core 2.1 Full Stack Web App
+* ##### https://www.jianshu.com/p/cd0b5917d184?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 
 ## Payment 
 
