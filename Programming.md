@@ -85,6 +85,9 @@
 #### Top 5 Free Database Diagram Design Tools
 * ##### https://www.holistics.io/blog/top-5-free-database-diagram-design-tools/
 
+#### Data Models
+* ##### http://www.databaseanswers.org/data_models/index.htm
+
 
 ## Testing
 #### Moq - Unit Test In .NET Core App Using Mock Object
