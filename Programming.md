@@ -8,6 +8,9 @@
 #### An example of activity diagram for online shopping.
 * ##### https://studylib.net/doc/10031747/an-example-of-activity-diagram-for-online-shopping.
 
+#### Building high performance database queries using Entity Framework Core and AutoMapper
+* ##### https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/
+
 ## IdentityServer
 
 #### ASP.NET Core 2.1 Full Stack Web App
