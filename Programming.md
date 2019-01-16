@@ -228,6 +228,7 @@
 #### Install Microsoft .NET Core 2.0 for Linux.
 * ##### https://www.server-world.info/en/note?os=CentOS_7&p=dotnet20
 
+
 ## Refactoring, Design patterns, SOLID principles and other smart programming topics
 
 #### Refactoring.Guru
@@ -239,6 +240,8 @@
 #### The definitive guide to building apps using .NET design patterns and pattern architectures.
 * ##### https://www.dofactory.com/
 
+#### SourceMaking
+* ##### https://sourcemaking.com/
 
 ## Angular
 
