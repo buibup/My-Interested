@@ -248,6 +248,9 @@
 
 ## Angular
 
+#### Angular 7 with .NET Core 2.2 - Global Weather (Part 1)
+* ##### https://www.codeproject.com/Articles/1274513/Angular-7-with-NET-Core-2-2-Global-Weather-Part-1
+
 #### Convert HTML To PDF Using Angular 6
 * ##### https://www.c-sharpcorner.com/article/convert-html-to-pdf-using-angular-6/
 
