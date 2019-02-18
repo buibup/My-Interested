@@ -102,6 +102,9 @@
 
 ## ASP.NET Core
 
+#### The Reformed Programmer
+* ##### https://www.thereformedprogrammer.net/category/net-core/
+
 #### Microservices and Docker with .Net Core and Azure Service Fabric
 * ##### https://github.com/vany0114/microservices-dotnetcore-docker-servicefabric
 
