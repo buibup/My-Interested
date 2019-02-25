@@ -102,6 +102,9 @@
 
 ## ASP.NET Core
 
+#### Setting up Admin Template in Asp.net Core MVC
+* ##### https://codinginfinite.com/setting-up-admin-template-asp-net-core-mvc/
+
 #### The Reformed Programmer
 * ##### https://www.thereformedprogrammer.net/category/net-core/
 
