@@ -5,6 +5,9 @@
 #### ASP.NET Core / React SPA Template
 * ##### https://www.geekytidbits.com/asp-dotnet-core-react-template-update/
 
+#### Angular 7 Project With ASP.NET CORE APIs (Gym Project)
+* ##### https://www.c-sharpcorner.com/article/angular-7-project-with-asp-net-core-apis-gym-project/
+
 ## Article 
 
 #### Software Project Development and Decision Making
