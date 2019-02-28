@@ -1,5 +1,10 @@
 # Programming
 
+## .Net Core + SPA
+
+#### ASP.NET Core / React SPA Template
+* ##### https://www.geekytidbits.com/asp-dotnet-core-react-template-update/
+
 ## Article 
 
 #### Software Project Development and Decision Making
