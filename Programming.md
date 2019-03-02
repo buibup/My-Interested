@@ -1,5 +1,11 @@
 # Programming
 
+## Architecture 
+
+#### A headless CMS builds with clean modern architecture and technology.
+* ##### https://github.com/thangchung/blog-core
+* ##### https://hackernoon.com/applying-clean-architecture-on-web-application-with-modular-pattern-7b11f1b89011
+
 ## .Net Core + SPA
 
 #### ASP.NET Core / React SPA Template
