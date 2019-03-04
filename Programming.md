@@ -2,6 +2,9 @@
 
 ## Architecture 
 
+#### Clean Domain-Driven Design in 10 minutes
+* ##### https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b
+
 #### ASP.NET Core: A Multi-Layer Data Service Application Migrated from ASP.NET Web API
 * ##### https://www.codeproject.com/Articles/1224226/ASP-NET-Core-A-Multi-Layer-Data-Service-Applicatio
 
