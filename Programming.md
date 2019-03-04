@@ -2,12 +2,16 @@
 
 ## Architecture 
 
+#### ASP.NET Core: A Multi-Layer Data Service Application Migrated from ASP.NET Web API
+* ##### https://www.codeproject.com/Articles/1224226/ASP-NET-Core-A-Multi-Layer-Data-Service-Applicatio
+
 #### Building ASP.NET Core Web APIs with Clean Architecture
 * ##### https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture
 
 #### A headless CMS builds with clean modern architecture and technology.
 * ##### https://github.com/thangchung/blog-core
 * ##### https://hackernoon.com/applying-clean-architecture-on-web-application-with-modular-pattern-7b11f1b89011
+
 
 ## .Net Core + SPA
 
