@@ -2,8 +2,11 @@
 
 ## Architecture 
 
+#### Full ASP.NET Core 2.2 application with DDD, CQRS and Event Sourcing
+* ##### https://github.com/EduardoPires/EquinoxProject
+
 #### An awesome guide on how to build RESTful APIs with ASP.NET Core
-* ##### ttps://medium.freecodecamp.org/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28
+* ##### https://medium.freecodecamp.org/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28
 
 #### Clean Domain-Driven Design in 10 minutes
 * ##### https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b
