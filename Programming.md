@@ -2,6 +2,9 @@
 
 ## Architecture 
 
+#### Entity Framework Core 2 for Enterprise
+* ##### https://www.codeproject.com/Articles/1160586/Entity-Framework-Core-for-Enterprise
+
 #### Clean Architecture for .NET Applications
 * ##### https://paulovich.net/2018/05/15/clean-architecture-for-net-applications/
 
