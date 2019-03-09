@@ -2,6 +2,9 @@
 
 ## Architecture 
 
+#### Clean Architecture for .NET Applications
+* ##### https://paulovich.net/2018/05/15/clean-architecture-for-net-applications/
+
 #### Full ASP.NET Core 2.2 application with DDD, CQRS and Event Sourcing
 * ##### https://github.com/EduardoPires/EquinoxProject
 
