@@ -27,6 +27,9 @@
 * ##### https://github.com/thangchung/blog-core
 * ##### https://hackernoon.com/applying-clean-architecture-on-web-application-with-modular-pattern-7b11f1b89011
 
+## Ef Core
+#### How to rename Asp .Net Core 2.2 Identity Tables to not have AspNet prefix in EF Core
+* ##### https://dev.to/coolgoose/how-to-rename-asp-net-core-22-identity-tables-to-not-have-aspnet-prefix-in-ef-core-33c9
 
 ## .Net Core + SPA
 
