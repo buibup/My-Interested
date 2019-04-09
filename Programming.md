@@ -41,6 +41,9 @@
 
 ## Article 
 
+#### Building Microservices On .NET Core – Part 1 The Plan
+* ##### https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/
+
 #### Software Project Development and Decision Making
 * ##### https://www.codeproject.com/Articles/1230088/Software-Project-Development-and-Decision-Making
 
