@@ -41,6 +41,9 @@
 
 ## Article 
 
+#### JWT Authentication Flow with Refresh Tokens in ASP.NET Core Web API
+* ##### https://fullstackmark.com/post/19/jwt-authentication-flow-with-refresh-tokens-in-aspnet-core-web-api
+
 #### Building Microservices On .NET Core – Part 1 The Plan
 * ##### https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/
 
