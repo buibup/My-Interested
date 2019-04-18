@@ -2,6 +2,9 @@
 
 ## Architecture 
 
+#### PI developed with ASP.NET Core 2.2 using Chinook DB. Developed with an Architecture for better unit testing
+* ##### https://github.com/cwoodruff/ChinookASPNETCoreAPINTier
+
 #### Entity Framework Core 2 for Enterprise
 * ##### https://www.codeproject.com/Articles/1160586/Entity-Framework-Core-for-Enterprise
 
