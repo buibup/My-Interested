@@ -2,6 +2,9 @@
 
 ## Architecture 
 
+#### API VS. MICROSERVICES: A MICROSERVICE IS MORE THAN JUST AN API
+* ##### https://www.scalyr.com/blog/api-vs-microservices
+
 #### PI developed with ASP.NET Core 2.2 using Chinook DB. Developed with an Architecture for better unit testing
 * ##### https://github.com/cwoodruff/ChinookASPNETCoreAPINTier
 
