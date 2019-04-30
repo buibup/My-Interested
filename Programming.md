@@ -62,6 +62,9 @@
 #### Building high performance database queries using Entity Framework Core and AutoMapper
 * ##### https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/
 
+#### SECURING WEBAPI USING JSON WEB TOKEN (JWT) IN WEB API C#
+* ##### http://www.decatechlabs.com/secure-webapi-using-jwt
+
 ## IdentityServer
 
 #### ASP.NET Core 2.1 Full Stack Web App
