@@ -7,6 +7,9 @@
 
 ## Architecture 
 
+#### Blazor - app building workshop
+* ##### https://github.com/dotnet-presentations/blazor-workshop
+
 #### API VS. MICROSERVICES: A MICROSERVICE IS MORE THAN JUST AN API
 * ##### https://www.scalyr.com/blog/api-vs-microservices
 
