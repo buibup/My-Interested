@@ -1,5 +1,10 @@
 # Programming
 
+## Performance
+
+#### ASP.NET Core: Saturating 10GbE at 7+ million request/s
+* ##### https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/
+
 ## Architecture 
 
 #### API VS. MICROSERVICES: A MICROSERVICE IS MORE THAN JUST AN API
