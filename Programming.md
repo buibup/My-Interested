@@ -9,6 +9,9 @@
 
 #### What Is .NET Core
 * ##### https://www.c-sharpcorner.com/article/what-is-dot-net-core/
+	
+#### Implement Gmail And Facebook Based Authentication In ASP.NET Core 2.2
+* ##### https://www.c-sharpcorner.com/article/implement-gmail-and-facebook-based-authentication-in-asp-net-core-2-2/
 
 #### Blazor - app building workshop
 * ##### https://github.com/dotnet-presentations/blazor-workshop
