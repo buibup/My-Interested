@@ -7,6 +7,9 @@
 
 ## Architecture 
 
+#### What Is .NET Core
+* ##### https://www.c-sharpcorner.com/article/what-is-dot-net-core/
+
 #### Blazor - app building workshop
 * ##### https://github.com/dotnet-presentations/blazor-workshop
 
