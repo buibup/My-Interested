@@ -7,6 +7,9 @@
 
 ## Architecture 
 
+#### Architect Modern Web Applications with ASP.NET Core and Azure
+* ##### https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/?fbclid=IwAR0U9gp5UMIIrJKnGhviw0XsKx0I6D-UI6vL290lX990D6D8kZcgyzVEweU
+
 #### What Is .NET Core
 * ##### https://www.c-sharpcorner.com/article/what-is-dot-net-core/
 	
