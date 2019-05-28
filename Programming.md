@@ -85,6 +85,9 @@
 #### SECURING WEBAPI USING JSON WEB TOKEN (JWT) IN WEB API C#
 * ##### http://www.decatechlabs.com/secure-webapi-using-jwt
 
+#### Upload file using Web Service (ASMX) in ASP.Net using C# and VB.Net
+* ##### https://www.aspsnippets.com/Articles/Upload-file-using-Web-Service-ASMX-in-ASPNet-using-C-and-VBNet.aspx
+
 ## IdentityServer
 
 #### ASP.NET Core 2.1 Full Stack Web App
