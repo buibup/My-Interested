@@ -88,6 +88,9 @@
 #### Upload file using Web Service (ASMX) in ASP.Net using C# and VB.Net
 * ##### https://www.aspsnippets.com/Articles/Upload-file-using-Web-Service-ASMX-in-ASPNet-using-C-and-VBNet.aspx
 
+#### Validating MIME of a File Before Uploading in ASP.Net
+* ##### https://www.c-sharpcorner.com/uploadfile/a20beb/validating-mime-of-a-file-before-uploading-in-asp-net/
+
 ## IdentityServer
 
 #### ASP.NET Core 2.1 Full Stack Web App
