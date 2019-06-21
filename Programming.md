@@ -375,6 +375,11 @@
 #### Add JWT Bearer Authorization to Swagger and ASP.NET Core
 * ##### https://ppolyzos.com/2017/10/30/add-jwt-bearer-authorization-to-swagger-and-asp-net-core/
 
+## Debug
+
+### Uncaught exception thrown by method called through reflection [Cannot dubug]
+* #####  https://stackoverflow.com/questions/18644251/uncaught-exception-thrown-by-method-called-through-reflection/18729109#18729109
+
 
 ## JAVA, Spring boot, JPA, Hibernate
 
