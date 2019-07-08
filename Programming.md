@@ -308,6 +308,10 @@
 #### Upload Large Files In Web API With A Simple Method
 * ##### https://www.c-sharpcorner.com/article/upload-large-files-in-web-api-with-a-simple-method/
 
+## Solve Error
+
+#### Gmail Error :The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required
+* ##### https://stackoverflow.com/questions/20906077/gmail-error-the-smtp-server-requires-a-secure-connection-or-the-client-was-not
 
 ## Linux
 
