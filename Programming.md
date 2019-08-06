@@ -5,6 +5,11 @@
 #### ASP.NET Core: Saturating 10GbE at 7+ million request/s
 * ##### https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/
 
+## Asynchronous
+
+#### C#: Why you should use ConfigureAwait(false) in your library code
+* ##### https://medium.com/bynder-tech/c-why-you-should-use-configureawait-false-in-your-library-code-d7837dce3d7f
+
 ## Architecture 
 
 #### Architect Modern Web Applications with ASP.NET Core and Azure
