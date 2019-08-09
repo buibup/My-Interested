@@ -318,6 +318,12 @@
 #### Gmail Error :The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required
 * ##### https://stackoverflow.com/questions/20906077/gmail-error-the-smtp-server-requires-a-secure-connection-or-the-client-was-not
 
+#### Tests not running in Test Explorer
+* ##### https://stackoverflow.com/questions/23363073/tests-not-running-in-test-explorer
+
+#### Unit Tests not discovered in Visual Studio 2017
+* ##### https://stackoverflow.com/questions/42861930/unit-tests-not-discovered-in-visual-studio-2017
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
