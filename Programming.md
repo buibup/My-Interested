@@ -10,6 +10,9 @@
 #### Secure ASP.NET Web API using API Key Authentication – HMAC Authentication
 * ##### https://bitoftech.net/2014/12/15/secure-asp-net-web-api-using-api-key-authentication-hmac-authentication/?fbclid=IwAR0-ZIjItTrrhI17yjiQnBSGcL_M429Btd2IuMe7dyOlWp1zMBdpDKojq9Q
 
+#### HMAC Authentication in WEB API
+* ##### https://dotnettutorials.net/lesson/hmac-authentication-web-api/
+
 ## Asynchronous
 
 #### C#: Why you should use ConfigureAwait(false) in your library code
