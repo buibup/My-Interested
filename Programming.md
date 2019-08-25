@@ -5,6 +5,11 @@
 #### ASP.NET Core: Saturating 10GbE at 7+ million request/s
 * ##### https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/
 
+## Authentication
+
+#### Secure ASP.NET Web API using API Key Authentication – HMAC Authentication
+* ##### https://bitoftech.net/2014/12/15/secure-asp-net-web-api-using-api-key-authentication-hmac-authentication/?fbclid=IwAR0-ZIjItTrrhI17yjiQnBSGcL_M429Btd2IuMe7dyOlWp1zMBdpDKojq9Q
+
 ## Asynchronous
 
 #### C#: Why you should use ConfigureAwait(false) in your library code
