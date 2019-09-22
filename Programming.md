@@ -17,6 +17,15 @@
 #### ASP.NET Web API Tutorials For Begineers and Professionals
 * ##### https://dotnettutorials.net/course/asp-net-web-api/
 
+#### Building an ASP.NET Web API with ASP.NET Core
+* ##### https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial
+
+#### An awesome guide on how to build RESTful APIs with ASP.NET Core
+* ##### https://www.freecodecamp.org/news/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28/
+
+#### Invoking HTTP REST APIs With a Single Line of C# Code
+* ##### https://dzone.com/articles/invoking-http-rest-apis-with-a-single-line-of-c-co
+
 ## Asynchronous
 
 #### C#: Why you should use ConfigureAwait(false) in your library code
