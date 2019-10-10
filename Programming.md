@@ -14,6 +14,9 @@
 #### Secure ASP.NET Web API using API Key Authentication – HMAC Authentication
 * ##### https://bitoftech.net/2014/12/15/secure-asp-net-web-api-using-api-key-authentication-hmac-authentication/?fbclid=IwAR0-ZIjItTrrhI17yjiQnBSGcL_M429Btd2IuMe7dyOlWp1zMBdpDKojq9Q
 
+#### JWT Authentication for Microservices in .NET
+* ##### https://www.red-gate.com/simple-talk/dotnet/net-development/jwt-authentication-microservices-net/
+
 #### HMAC Authentication in WEB API
 * ##### https://dotnettutorials.net/lesson/hmac-authentication-web-api/
 
