@@ -20,6 +20,9 @@
 #### HMAC Authentication in WEB API
 * ##### https://dotnettutorials.net/lesson/hmac-authentication-web-api/
 
+#### ASP.NET Core 3.0 - JWT Authentication Tutorial with Example API
+* ##### https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
+
 ## Web API
 #### ASP.NET Web API Tutorials For Begineers and Professionals
 * ##### https://dotnettutorials.net/course/asp-net-web-api/
