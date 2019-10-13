@@ -6,6 +6,10 @@
 * ##### https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/
 
 ## Github
+
+#### clean-code-dotnet
+* ##### https://github.com/thangchung/clean-code-dotnet
+
 #### CoolStore Web Application - 🎡 Kubernetes-based Microservices Application on Service Mesh ⛵️
 * ##### https://github.com/vietnam-devs/coolstore-microservices
 
