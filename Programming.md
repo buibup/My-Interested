@@ -13,6 +13,12 @@
 #### CoolStore Web Application - 🎡 Kubernetes-based Microservices Application on Service Mesh ⛵️
 * ##### https://github.com/vietnam-devs/coolstore-microservices
 
+#### Microservice Architecture & Implementation with Asp.Net Core
+* ##### https://github.com/suadev/dotnet-istanbul-microservices-demo
+
+#### Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+* ##### https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
+
 ## Authentication
 
 #### Secure ASP.NET Web API using API Key Authentication – HMAC Authentication
