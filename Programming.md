@@ -19,6 +19,10 @@
 #### Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 * ##### https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
 
+## Xamarin
+#### Fashion App Design in Xamarin Forms
+* ##### https://github.com/devcrux/FashionApp
+
 ## Authentication
 
 #### Secure ASP.NET Web API using API Key Authentication – HMAC Authentication
