@@ -20,6 +20,10 @@
 * ##### https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
 
 ## Xamarin
+
+#### Xamarin.Forms goodlooking UI Samples
+* ##### https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
+
 #### Fashion App Design in Xamarin Forms
 * ##### https://github.com/devcrux/FashionApp
 
