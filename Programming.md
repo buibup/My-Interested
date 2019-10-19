@@ -32,6 +32,9 @@
 #### Fashion App Design in Xamarin Forms
 * ##### https://github.com/devcrux/FashionApp
 
+#### Fashion App Design in Xamarin Forms - Part 1
+* ##### https://www.youtube.com/watch?v=T2y7laoyfoE&feature=youtu.be
+
 ## Authentication
 
 #### Secure ASP.NET Web API using API Key Authentication – HMAC Authentication
