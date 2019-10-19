@@ -19,6 +19,11 @@
 #### Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 * ##### https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
 
+## AspNet Core
+
+#### Structured Logging with AspNet Core using Serilog and Seq
+* ##### https://www.youtube.com/watch?v=ty3g7tOGVgs
+
 ## Xamarin
 
 #### Xamarin.Forms goodlooking UI Samples
