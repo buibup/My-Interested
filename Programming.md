@@ -22,6 +22,9 @@
 #### Sample project for demonstrating Push Notifications based on Push API and Web Push Protocol in ASP.NET Core
 * ##### https://github.com/tpeczek/Demo.AspNetCore.PushNotifications
 
+#### CorePush - .NET Core Android Firebase (FCM) and Apple iOS JWT HTTP/2 Push notifications (APN)
+* ##### https://github.com/andrei-m-code/net-core-push-notifications
+
 ## AspNet Core
 
 #### Structured Logging with AspNet Core using Serilog and Seq
