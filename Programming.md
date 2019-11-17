@@ -19,6 +19,9 @@
 #### Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 * ##### https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
 
+#### Sample project for demonstrating Push Notifications based on Push API and Web Push Protocol in ASP.NET Core
+* ##### https://github.com/tpeczek/Demo.AspNetCore.PushNotifications
+
 ## AspNet Core
 
 #### Structured Logging with AspNet Core using Serilog and Seq
