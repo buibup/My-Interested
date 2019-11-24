@@ -32,6 +32,9 @@
 
 ## Xamarin
 
+#### Xamarin using MvvmCross
+* ##### https://www.mvvmcross.com/documentation/getting-started/getting-started
+
 #### Xamarin.Forms goodlooking UI Samples
 * ##### https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
 
