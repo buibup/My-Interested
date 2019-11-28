@@ -71,6 +71,9 @@
 #### Invoking HTTP REST APIs With a Single Line of C# Code
 * ##### https://dzone.com/articles/invoking-http-rest-apis-with-a-single-line-of-c-co
 
+#### A Few Great Ways to Consume RESTful API in C#
+* ##### https://code-maze.com/different-ways-consume-restful-api-csharp/
+
 ## Asynchronous
 
 #### C#: Why you should use ConfigureAwait(false) in your library code
