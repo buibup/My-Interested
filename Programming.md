@@ -5,6 +5,14 @@
 #### ASP.NET Core: Saturating 10GbE at 7+ million request/s
 * ##### https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/
 
+## Blog .NET
+
+#### 17+ Must Have .NET Developer Tools - The Essential List
+* ##### https://blog.elmah.io/17-must-have-net-developer-tools-the-essential-list/amp/?fbclid=IwAR3wM17jbngm682JatluKrd4TF4R11b59DZdkuUkANT9VMsQ7ZDp1vhSNxU
+
+#### List of the Best Free Visual Studio Extensions
+* ##### https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
+
 ## Github
 
 #### clean-code-dotnet
