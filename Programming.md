@@ -307,6 +307,9 @@
 
 ## C#, .Net
 
+#### 17+ Must Have .NET Developer Tools - The Essential List
+* ##### https://blog.elmah.io/17-must-have-net-developer-tools-the-essential-list/amp/?fbclid=IwAR3wM17jbngm682JatluKrd4TF4R11b59DZdkuUkANT9VMsQ7ZDp1vhSNxU
+
 #### .Net Design Pattern
 * ##### https://blog.usejournal.com/net-design-pattern-3b747d155588
 
