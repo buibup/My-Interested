@@ -404,6 +404,26 @@
 #### Unit Tests not discovered in Visual Studio 2017
 * ##### https://stackoverflow.com/questions/42861930/unit-tests-not-discovered-in-visual-studio-2017
 
+## Notifications 
+
+#### Using PushSharp to Send Notifications to iOS and Android
+* ##### https://www.codeproject.com/Tips/666989/Using-PushSharp-to-Send-Notifications-to-iOS-and-A
+
+#### Send Push Notification from .Net service to iOS devices using PushSharp
+* ##### https://medium.com/@sunnysun_5694/send-push-notification-from-net-service-to-ios-devices-using-pushsharp-7a7bf9f7fb36
+
+#### How to Configure & Send Apple Push Notifications using PushSharp
+* ##### https://github.com/Redth/PushSharp/wiki/How-to-Configure-&-Send-Apple-Push-Notifications-using-PushSharp
+
+#### How to Configure & Send GCM Google Cloud Messaging Push Notifications using PushSharp
+* ##### https://github.com/Redth/PushSharp/wiki/How-to-Configure-&-Send-GCM-Google-Cloud-Messaging-Push-Notifications-using-PushSharp
+
+#### How to use Push Notifications in Xamarin Forms
+* ##### https://stackoverflow.com/a/29141884
+
+#### iOS and Android Push Notifications with PushSharp
+* ##### https://www.mattburkedev.com/ios-and-android-push-notifications-with-pushsharp/
+
 ## Linux
 
 #### Install Microsoft .NET Core 2.0 for Linux.
