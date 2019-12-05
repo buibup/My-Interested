@@ -264,6 +264,9 @@
 
 ## ASP.NET Core
 
+#### ASP.NET Core for Beginners
+* ##### https://www.youtube.com/watch?v=O_huuhKWqVA&t=26s
+
 #### Setting up Admin Template in Asp.net Core MVC
 * ##### https://codinginfinite.com/setting-up-admin-template-asp-net-core-mvc/
 
