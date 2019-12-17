@@ -312,6 +312,9 @@
 
 ## Dapper
 
+#### An Example of using DDD with .NET Core 3.1
+* ##### https://github.com/kimcu-on-thenet/ddd-net-ef-core
+
 #### Tutorial on Handling Multiple Resultsets and Multiple Mapping using Dapper
 * ##### https://www.codeproject.com/Articles/1260540/Tutorial-on-Handling-Multiple-Resultsets-and-Multi
 
