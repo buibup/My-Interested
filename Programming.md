@@ -89,6 +89,9 @@
 
 ## Architecture 
 
+#### Clean Architecture Solution Template for Angular 8 and .NET Core 3.1
+* ##### https://github.com/JasonGT/CleanArchitecture
+
 #### Domain-Driven-Design-Example C#
 * ##### https://github.com/zkavtaskin/Domain-Driven-Design-Example
 
