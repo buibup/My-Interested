@@ -89,6 +89,9 @@
 
 ## Architecture 
 
+#### Domain-Driven-Design-Example C#
+* ##### https://github.com/zkavtaskin/Domain-Driven-Design-Example
+
 #### Architect Modern Web Applications with ASP.NET Core and Azure
 * ##### https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/?fbclid=IwAR0U9gp5UMIIrJKnGhviw0XsKx0I6D-UI6vL290lX990D6D8kZcgyzVEweU
 
