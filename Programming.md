@@ -82,6 +82,9 @@
 #### A Few Great Ways to Consume RESTful API in C#
 * ##### https://code-maze.com/different-ways-consume-restful-api-csharp/
 
+### How to store data per request with WebAPI
+* ##### http://irhadbabic.com/how-to-store-data-per-request-with-webapi/
+
 ## Asynchronous
 
 #### C#: Why you should use ConfigureAwait(false) in your library code
