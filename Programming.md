@@ -54,6 +54,9 @@
 
 ## Authentication
 
+#### Secure ASP.NET Core Web API using API Key Authentication
+* ##### http://codingsonata.com/secure-asp-net-core-web-api-using-api-key-authentication/
+
 #### Secure ASP.NET Web API using API Key Authentication – HMAC Authentication
 * ##### https://bitoftech.net/2014/12/15/secure-asp-net-web-api-using-api-key-authentication-hmac-authentication/?fbclid=IwAR0-ZIjItTrrhI17yjiQnBSGcL_M429Btd2IuMe7dyOlWp1zMBdpDKojq9Q
 
