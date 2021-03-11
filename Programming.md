@@ -33,6 +33,11 @@
 #### CorePush - .NET Core Android Firebase (FCM) and Apple iOS JWT HTTP/2 Push notifications (APN)
 * ##### https://github.com/andrei-m-code/net-core-push-notifications
 
+## Swagger 
+
+#### Appending API Key header from UI automatically
+* ##### https://josef.codes/asp-net-core-tips-and-tricks-swagger-part-1/
+
 ## AspNet Core
 
 #### Structured Logging with AspNet Core using Serilog and Seq
