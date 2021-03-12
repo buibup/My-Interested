@@ -40,6 +40,9 @@
 
 ## AspNet Core
 
+## Upgrade your validation logic in ASP.NET Core with FluentValidation
+* ##### https://fizzylogic.nl/2020/12/18/upgrade-your-validation-logic-in-asp-net-core-with-fluentvalidation
+
 #### Structured Logging with AspNet Core using Serilog and Seq
 * ##### https://www.youtube.com/watch?v=ty3g7tOGVgs
 
