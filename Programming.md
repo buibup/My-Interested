@@ -13,6 +13,11 @@
 #### List of the Best Free Visual Studio Extensions
 * ##### https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/
 
+## C#
+
+#### C# Back to Basics
+* ##### https://code-maze.com/csharp-back-to-basics/
+
 ## Github
 
 #### clean-code-dotnet
