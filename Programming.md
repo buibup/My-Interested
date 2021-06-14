@@ -435,6 +435,10 @@
 #### Unit Tests not discovered in Visual Studio 2017
 * ##### https://stackoverflow.com/questions/42861930/unit-tests-not-discovered-in-visual-studio-2017
 
+## HttpClient
+#### Concurrent calls
+* ##### https://riptutorial.com/csharp/example/6127/concurrent-calls
+
 ## Notifications 
 
 #### Using PushSharp to Send Notifications to iOS and Android
