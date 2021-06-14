@@ -5,3 +5,6 @@ https://github.com/xamarin/xamarin-android/issues/3444#issuecomment-600594676
 
 ## Fix ShareX HotKey
 https://github.com/ShareX/ShareX/issues/1112#issuecomment-338980642
+
+## HttpClient
+http://byterot.blogspot.com/2016/07/singleton-httpclient-dns.html
